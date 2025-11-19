@@ -55,4 +55,9 @@ Performed in **Power Query**:
 
 ---
 
-## 📁 Repository Structure
+## 🖼 Dashboard Preview
+<img width="1117" height="629" alt="image" src="https://github.com/user-attachments/assets/d5a8e3d0-56fe-4839-8735-3cc0f6521e3f" />
+<img width="1117" height="628" alt="image" src="https://github.com/user-attachments/assets/7306174f-5f24-43b2-b33a-2d893d3132f9" />
+
+
+
